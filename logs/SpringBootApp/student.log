@@ -1,0 +1,67 @@
+2024-10-10T17:45:02.538-0500 INFO Llamado al metodo 'serv_register_teacher()' en el servicio 'ServiceTeacher'. Retornando instancia de 'ModelTeacher' : 'ModelTeacher(idTeacher=null, teacherName=Evelyn, teacherLastName=Oliveros Cruz, teacherPhoneNumber=237182735, teacherAge=23, teacherEmail=evelynoi@gmail.com, entryDate=Mon Sep 30 19:00:00 COT 2024, teacherGender=Female, ls_courses=null)'
+2024-10-11T08:55:38.250-0500 INFO Iniciando el metodo sin retorno 'serv_remove_teacher()' en el servicio 'ServiceTeacher' para eliminar un modelo con ID : '8'.
+2024-10-11T08:55:38.319-0500 ERROR No se encontró el ModelTeacher con ID: '8'. Lanzando excepcion.
+2024-10-11T08:56:10.245-0500 INFO Iniciando el metodo con retorno 'serv_list_teacher()' en el servicio 'ServiceTeacher' para lista modelos de tipo 'ModelTeacher'.
+2024-10-11T08:56:10.343-0500 INFO Lista de modelos de tipo 'ModelTeacher' obtenido con longitud de : '3'.
+2024-10-11T12:26:08.153-0500 INFO Iniciando el metodo con retorno 'serv_list_teacher()' en el servicio 'ServiceTeacher' para lista modelos de tipo 'ModelTeacher'.
+2024-10-11T12:26:09.012-0500 INFO Lista de modelos de tipo 'ModelTeacher' obtenido con longitud de : '3'.
+2024-10-11T12:26:12.042-0500 INFO Iniciando el metodo con retorno 'serv_list_teacher()' en el servicio 'ServiceTeacher' para lista modelos de tipo 'ModelTeacher'.
+2024-10-11T12:26:12.045-0500 INFO Lista de modelos de tipo 'ModelTeacher' obtenido con longitud de : '3'.
+2024-10-11T12:26:19.350-0500 INFO Iniciando el metodo con retorno 'serv_listDTO_teacher()' en el servicio 'ServiceTeacher' para listar modelos DTOs de tipo 'DTOClass_Teacher'.
+2024-10-11T12:26:19.613-0500 INFO Lista de modelos tipo 'DTOClass_Teacher' obtenido con longitud de : '7'.
+2024-10-11T12:29:34.537-0500 INFO Iniciando el metodo con retorno 'serv_list_teacher()' en el servicio 'ServiceTeacher' para lista modelos de tipo 'ModelTeacher'.
+2024-10-11T12:29:34.663-0500 INFO Lista de modelos de tipo 'ModelTeacher' obtenido con longitud de : '3'.
+2024-10-11T12:32:20.138-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:32:20.172-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@412436ea=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:32:20.227-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@412436ea=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:32:26.158-0500 INFO Iniciando el metodo con retorno 'serv_list_teacher()' en el servicio 'ServiceTeacher' para lista modelos de tipo 'ModelTeacher'.
+2024-10-11T12:32:26.165-0500 INFO Lista de modelos de tipo 'ModelTeacher' obtenido con longitud de : '3'.
+2024-10-11T12:32:47.790-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:32:47.796-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@3b3ac671=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:32:47.805-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@3b3ac671=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:33:06.528-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:33:06.531-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@29eb698f=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:33:06.548-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@29eb698f=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:33:11.372-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:33:11.378-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@4b94ad6e=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:33:11.399-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@4b94ad6e=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:33:37.941-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:33:37.944-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@72e14182=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:33:37.954-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@72e14182=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:36:59.749-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:36:59.755-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@10d76092=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:36:59.770-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@10d76092=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:37:00.752-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:37:00.756-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@5e7df383=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:37:00.768-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@5e7df383=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:37:01.256-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:37:01.259-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@7464369c=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:37:01.266-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@7464369c=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:37:01.729-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:37:01.731-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@29809a04=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:37:01.737-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@29809a04=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:38:02.226-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:38:02.229-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@7f2041a7=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:38:02.238-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@7f2041a7=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:38:02.998-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:38:03.001-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@6c2b0260=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:38:03.014-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@6c2b0260=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:39:22.569-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:39:22.578-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@354e11ab=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:39:22.587-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@354e11ab=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:39:23.503-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:39:23.506-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@591217ee=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:39:23.520-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@591217ee=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:40:01.634-0500 INFO Iniciando el metodo con retorno 'serv_list_teacher()' en el servicio 'ServiceTeacher' para lista modelos de tipo 'ModelTeacher'.
+2024-10-11T12:40:01.646-0500 INFO Lista de modelos de tipo 'ModelTeacher' obtenido con longitud de : '3'.
+2024-10-11T12:40:14.374-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:40:14.377-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@11e9e47c=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:40:14.386-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@11e9e47c=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:42:35.808-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:42:35.814-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@7100d899=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:42:35.827-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@7100d899=>java.lang.StackOverflowError:null!!!]'
+2024-10-11T12:46:47.697-0500 INFO Iniciando el metodo con retorno 'serv_list_teacher()' en el servicio 'ServiceTeacher' para lista modelos de tipo 'ModelTeacher'.
+2024-10-11T12:46:47.802-0500 INFO Lista de modelos de tipo 'ModelTeacher' obtenido con longitud de : '3'.
+2024-10-11T12:49:09.093-0500 INFO Iniciando el metodo con retorno 'serv_update_teacher()' en el servicio 'ServiceTeacher' para actualizar un modelo de tipo 'ModelTeacher' con ID : '1'.
+2024-10-11T12:49:09.167-0500 INFO 'ModelTeacher' encontrado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@19021a5a=>java.lang.StackOverflowError:null!!!]'.
+2024-10-11T12:49:09.188-0500 INFO 'ModeloTeacher' actualizado : '[!!!com.demo_persistence.jpa_persistence.models.ModelTeacher@19021a5a=>java.lang.StackOverflowError:null!!!]'
