@@ -1,9 +1,6 @@
 package com.demo_persistence.jpa_persistence.dto;
 
 import com.demo_persistence.jpa_persistence.models.ModelTeacher.TeacherGender;
-import com.fasterxml.jackson.annotation.JsonAutoDetect;
-import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
-
 import jakarta.persistence.Column;
 import jakarta.validation.constraints.*;
 

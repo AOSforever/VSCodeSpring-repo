@@ -2,7 +2,6 @@ package com.demo_persistence.jpa_persistence.controllers;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import com.demo_persistence.jpa_persistence.controllers.advice.TeacherForbiddenException;
 import com.demo_persistence.jpa_persistence.dto.DTOClass_Teacher;
 import com.demo_persistence.jpa_persistence.dto.DTOClass_UpdateTeacher;
 import com.demo_persistence.jpa_persistence.models.ModelTeacher;
