@@ -4,10 +4,12 @@ import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
 
 import com.demo_persistence.jpa_persistence.dto.DTOClass_Teacher;
 import com.demo_persistence.jpa_persistence.models.ModelTeacher;
 
+@Repository
 public interface _RepositoryTeacher extends JpaRepository<ModelTeacher, Long> { 
 
     @Query(""" 

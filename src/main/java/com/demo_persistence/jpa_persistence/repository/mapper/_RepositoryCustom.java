@@ -1,7 +1,6 @@
 package com.demo_persistence.jpa_persistence.repository.mapper;
 
 import java.util.List;
-
 import com.demo_persistence.jpa_persistence.models.ModelStudent;
 
 public interface _RepositoryCustom {
